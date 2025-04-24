@@ -1,0 +1,16 @@
+<div>
+    <h2>Enter a number (1-7) to get the day of the week</h2>
+    <input type="number" [(ngModel)]="dayNumber" min="1" max="7"/>
+
+    <div [ngSwitch]="dayNumber">
+        <div *ngSwitchCase="1">Monday</div>
+        <div *ngSwitchCase="2">Tuesday</div>
+        <div *ngSwitchCase="3">Wednesday</div>
+        <div *ngSwitchCase="4">Thursday</div>
+        <div *ngSwitchCase="5">Friday</div>
+        <div *ngSwitchCase="6">Saturday</div>
+        <div *ngSwitchCase="7">Sunday</div>
+        <div *ngSwitchDefault>Please enter a number between 1 to 7</div>
+    </div>
+</div>
+

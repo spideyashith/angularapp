@@ -1,0 +1,12 @@
+button {
+    margin: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  p {
+    font-size: 18px;
+    color: red;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+  }
