@@ -79,10 +79,10 @@ This project is for educational purposes only and part of the academic record fo
 <p align="center">
   © 2024 <strong>Ashith Fernandes</strong>  
   <br>
-  MSc (Software Technology),  
-  St Aloysius (Deemed to be University), AIMIT Mangalore  
+ <b> MSc (Software Technology),  
+  St Aloysius (Deemed to be University), AIMIT Mangalore  </b>
   <br><br>
-  All rights reserved.  
+ <b> All rights reserved.  </b>
   <br>
   This Angular 2024 academic record is part of internal coursework and intended for educational purposes only.  
   <br>
