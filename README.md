@@ -68,12 +68,6 @@ To run any of the projects locally:
 This project is for educational purposes only and part of the academic record for internal evaluation at AIMIT. Do not reproduce without permission.
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-📎 Useful Links
-- Angular Docs
-- TypeScript Handbook
-- Node.js
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <hr>
