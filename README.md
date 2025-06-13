@@ -76,13 +76,17 @@ This project is for educational purposes only and part of the academic record fo
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<hr>
+
 <p align="center">
-## © Copyright
-
-© 2024 Ashith Fernandes. All rights reserved.
-
-This project is a part of the academic coursework for MSc (Software Technology) at  
-St Aloysius (Deemed to be University), AIMIT Mangalore.
-
-Unauthorized copying, distribution, or use of this material for commercial or academic purposes  
-outside the university context is strictly prohibited without prior written consent.</p>
+  © 2024 <strong>Ashith Fernandes</strong>  
+  <br>
+  MSc (Software Technology),  
+  St Aloysius (Deemed to be University), AIMIT Mangalore  
+  <br><br>
+  All rights reserved.  
+  <br>
+  This Angular 2024 academic record is part of internal coursework and intended for educational purposes only.  
+  <br>
+  No part of this repository may be copied, reproduced, or used commercially without prior written permission.
+</p>
