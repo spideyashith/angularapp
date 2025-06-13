@@ -2,6 +2,13 @@
 
 ![GitHub repo](https://img.shields.io/badge/Status-Active-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-Academic-blueviolet?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=angular)
+![License](https://img.shields.io/badge/License-Academic-blueviolet?style=for-the-badge)
+![Built with](https://img.shields.io/badge/Built%20with-Angular-DD0031?style=for-the-badge&logo=angular)
+![Maintained](https://img.shields.io/badge/Maintained%3F-Yes-44cc11?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/spideyashith/angular-2024-record?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/spideyashith/angular-2024-record?style=for-the-badge)
+
 
 ## 📚 About This Project
 
@@ -46,3 +53,36 @@ To run any of the projects locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/spideyashith/<your-repo-name>.git
+
+----------------------------------------------------------------------------------------------------------------
+🛠️ Technologies Used
+- Angular 14+
+- TypeScript
+- HTML & CSS
+- Node.js & npm
+- Visual Studio Code
+
+  
+---------------------------------------------------------------------------------------------------------------------------------------------------
+📝 License
+This project is for educational purposes only and part of the academic record for internal evaluation at AIMIT. Do not reproduce without permission.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+📎 Useful Links
+- Angular Docs
+- TypeScript Handbook
+- Node.js
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+## © Copyright
+
+© 2024 Ashith Fernandes. All rights reserved.
+
+This project is a part of the academic coursework for MSc (Software Technology) at  
+St Aloysius (Deemed to be University), AIMIT Mangalore.
+
+Unauthorized copying, distribution, or use of this material for commercial or academic purposes  
+outside the university context is strictly prohibited without prior written consent.
