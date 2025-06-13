@@ -31,7 +31,7 @@ These Angular exercises include beginner to intermediate-level web applications,
 **Ashith Fernandes**  
 MSc (Software Technology), Class of 2024  
 St Aloysius (Deemed to be University), AIMIT Mangalore  
-GitHub: [spideyashith](https://github.com/spideyashith/angularapp)
+GitHub: [spideyashith](https://github.com/spideyashith)
 
 ---
 
@@ -56,7 +56,7 @@ To run any of the projects locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/spideyashith/<your-repo-name>.git
+   git clone https://github.com/spideyashith/angularapp.git
 
 ----------------------------------------------------------------------------------------------------------------
 🛠️ Technologies Used
