@@ -76,7 +76,7 @@ This project is for educational purposes only and part of the academic record fo
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+<p align="center">
 ## © Copyright
 
 © 2024 Ashith Fernandes. All rights reserved.
@@ -85,4 +85,4 @@ This project is a part of the academic coursework for MSc (Software Technology) 
 St Aloysius (Deemed to be University), AIMIT Mangalore.
 
 Unauthorized copying, distribution, or use of this material for commercial or academic purposes  
-outside the university context is strictly prohibited without prior written consent.
+outside the university context is strictly prohibited without prior written consent.</p>
