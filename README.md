@@ -59,14 +59,14 @@ To run any of the projects locally:
    git clone https://github.com/spideyashith/angularapp.git
 
 ----------------------------------------------------------------------------------------------------------------
-<h3><b>🛠️Technologies Used</b></h3>
+<h3><b>🛠️Technologies Used</b>
 - Angular 14+
 - TypeScript
 - HTML & CSS
 - Node.js & npm
 - Visual Studio Code
 
-  
+  </h3>
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 📝 License
 This project is for educational purposes only and part of the academic record for internal evaluation at AIMIT. Do not reproduce without permission.
