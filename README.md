@@ -59,7 +59,7 @@ To run any of the projects locally:
    git clone https://github.com/spideyashith/angularapp.git
 
 ----------------------------------------------------------------------------------------------------------------
-🛠️ Technologies Used
+🛠️## Technologies Used
 - Angular 14+
 - TypeScript
 - HTML & CSS
