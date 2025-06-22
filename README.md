@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/spideyashith/angularapp/main/aimit-logo.webp" alt="AIMIT Logo" width="400"/>
+  <img src="https://raw.githubusercontent.com/spideyashith/Nodecomplete-recordprogram/main/ChatGPT%20Image%20Jun%2023%2C%202025%2C%2012_18_33%20AM.png" alt="AIMIT Logo" width="400"/>
 </p>
----
+
 
 # 📦 AngularApp
 
