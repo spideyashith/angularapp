@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/spideyashith/Nodecomplete-recordprogram/main/ChatGPT%20Image%20Jun%2023%2C%202025%2C%2012_24_08%20AM.png" alt="AIMIT Banner" width="600"/>
 </p>
-----
+
 # 📦 AngularApp
 
 > A simple Angular project scaffolded using Angular CLI. This repository is part of my academic work submitted as a college record program during my MSc Software Technology course at **St Aloysius College (Deemed to be University), AIMIT**.
