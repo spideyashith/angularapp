@@ -1,0 +1,6 @@
+StudentID,FirstName,LastName,Course,Score
+1001,John,Doe,Math,88
+1002,Jane,Smith,Physics,92
+1003,Emily,Jones,Chemistry,85
+1004,Michael,Brown,Biology,78
+1005,Linda,White,Math,90
