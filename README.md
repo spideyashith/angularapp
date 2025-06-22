@@ -147,8 +147,8 @@ If you'd like to connect or ask about this project:
   If you found it helpful, feel free to ⭐ star the repository.
 </p>
 
-<p align="center">
-  © 2025 Ashith Fernandes · St Aloysius College (Deemed to be University), AIMIT
+<p align="center"><b>
+  © 2025 Ashith Fernandes · St Aloysius College (Deemed to be University), AIMIT</b>
 </p>
 
 
