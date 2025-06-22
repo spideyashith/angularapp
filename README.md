@@ -37,3 +37,29 @@ angularapp/
 ├── angular.json           # Angular workspace config
 ├── package.json           # Project metadata & dependencies
 └── README.md              # You're here!
+
+---
+⚙️ Installation & Setup
+1. Clone the repository
+git clone https://github.com/spideyashith/angularapp.git
+cd angularapp
+
+2. Install dependencies
+npm install
+
+3. Run the development server
+ng serve -o
+---
+
+🧰 Useful Commands
+| Command       | Description                           |
+| ------------- | ------------------------------------- |
+| `ng serve`    | Run app in dev mode                   |
+| `ng build`    | Build app for production              |
+| `ng test`     | Run unit tests                        |
+| `ng generate` | Generate new component/service/module |
+
+---
+🤝 Contributing
+Pull requests are welcome! For major changes, open an issue first to discuss what you would like to change.
+
